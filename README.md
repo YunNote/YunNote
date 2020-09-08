@@ -1,12 +1,10 @@
 # YunNote
 
-📌 DaekyoCNS CLab. (신입 연구원)
-
-    2018. 01 ~ 2020. 05 (2년 5개월)
+📌 DaekyoCNS CLab. (신입 연구원)<br>
+   2018. 01 ~ 2020. 05 (2년 5개월)
   
-📌 OGQ Crop 
-
-    2020.05 ~ ing (재직중)
+📌 OGQ Crop (Backend Developer)<br>
+   2020.05 ~ ing (재직중)
 
 
 
