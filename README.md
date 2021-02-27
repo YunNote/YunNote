@@ -1,6 +1,6 @@
 # YunNote
 
-📌 DaekyoCNS CLab. (신입 연구원)<br>
+📌 DaekyoCNS CLab. (R&D)<br>
    2018. 01 ~ 2020. 05 (2년 5개월)
   
 📌 OGQ Corp (Backend Developer)<br>
