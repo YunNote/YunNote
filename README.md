@@ -2,7 +2,13 @@
    <img src="https://komarev.com/ghpvc/?username=yunnote&&style=flat-square" align="right" />
 </div>  
 
-# YunNote
+<div>
+   <img src="https://avatars.githubusercontent.com/u/52727797?s=120" />
+   <p>YunNote</p>
+</div>
+
+
+
 
 ### 💫 Experience
 
