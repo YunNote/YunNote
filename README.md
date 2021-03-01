@@ -4,13 +4,12 @@
 
 # YunNote
 
-📌 DaekyoCNS CLab. (R&D)<br>
-   2018. 01 ~ 2020. 05 (2년 5개월)
+### 💫 Experience
+
+- ** DaekyoCNS CLab ** - Rearch & Developer, *(2018.01 ~ 2020.05)*
+- ** OGQ Corp ** - Java Backend Developer, *(2020.05 ~ ing)*
+
   
-📌 OGQ Corp (Backend Developer)<br>
-   2020.05 ~ ing (재직중)
-
-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YunNote&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunNote&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
