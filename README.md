@@ -21,7 +21,7 @@
 
 <div align=center>
   
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@yundleyundle" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9C%A4%EC%A7%84-%EC%B5%9C-6a9092115/)](https://www.linkedin.com/in/%EC%9C%A4%EC%A7%84-%EC%B5%9C-6a9092115/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lv.28_0c9y2j5/)](https://www.instagram.com/lv.28_0c9y2j5/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zzdd1558@gmail.com)](mailto:zzdd1558@gmail.com)
