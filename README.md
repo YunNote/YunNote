@@ -6,8 +6,8 @@
 
 ### 💫 Experience
 
-- ** DaekyoCNS CLab ** - Rearch & Developer, *(2018.01 ~ 2020.05)*
-- ** OGQ Corp ** - Java Backend Developer, *(2020.05 ~ ing)*
+- **DaekyoCNS CLab** - Rearch & Developer, *(2018.01 ~ 2020.05)*
+- **OGQ Corp** - Java Backend Developer, *(2020.05 ~ ing)*
 
   
 
