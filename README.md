@@ -5,8 +5,6 @@
 <div>
    <img src="https://avatars.githubusercontent.com/u/52727797?s=120" />
    <p><strong>YunNote</strong></p>
-   
-   <p>Backend와 Front를 재밌게 공부하고싶은 개발자<p>
 </div>
 
 
@@ -15,7 +13,8 @@
 ### 💫 Experience
 
 - **DaekyoCNS CLab** - Rearch & Developer, *(2018.01 ~ 2020.05)*
-- **OGQ Corp** - Java Backend Developer, *(2020.05 ~ ing)*
+- **OGQ Corp** - Java Backend Developer, *(2020.05 ~ 2021.11)*
+- **Smilegate** - Server Developer, *(2021.11 ~ ing)*
 
 
 
