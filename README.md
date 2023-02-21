@@ -14,7 +14,7 @@
 
 - **DaekyoCNS CLab** - Rearch & Developer, *(2018.01 ~ 2020.05)*
 - **OGQ Corp** - Java Backend Developer, *(2020.05 ~ 2021.11)*
-- **Smilegate** - Server Developer, *(2021.11 ~ ing)*
+- **Smilegate** - Indie Platform Server Developer, *(2021.11 ~ ing)*
 
 
 
