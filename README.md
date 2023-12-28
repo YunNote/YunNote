@@ -12,10 +12,11 @@
 
 ### 💫 Experience
 
-- **DaekyoCNS CLab** - Rearch & Developer, *(2018.01 ~ 2020.05)*
-- **OGQ Corp** - Java Backend Developer, *(2020.05 ~ 2021.11)*
-- **Smilegate** - Indie Game Platform Server Developer, *(2021.11 ~ 2023.05)*
 - **CJ Oliveyoung** - Server Developer, *(2023.05 ~ ing)*
+- **Smilegate** - Indie Game Platform Server Developer, *(2021.11 ~ 2023.05)*
+- **OGQ Corp** - Java Backend Developer, *(2020.05 ~ 2021.11)*
+- **DaekyoCNS CLab** - Rearch & Developer, *(2018.01 ~ 2020.05)*
+
 
 
 
