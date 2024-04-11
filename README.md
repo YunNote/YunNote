@@ -18,7 +18,7 @@
 - **DaekyoCNS CLab** - Research & Developer, *(2018.01 ~ 2020.05)*
 
 
-### 💫 Contributor
+### 💫 작지만 소중한 Contributor
  - **Fixture Monkey** https://github.com/naver/fixture-monkey
 
 
