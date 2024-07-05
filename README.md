@@ -22,9 +22,9 @@
  - **Fixture Monkey** https://github.com/naver/fixture-monkey
 
 ### 💫 테크 블로그 경험
- - (**Fixture Monkey 도입기에 대한 경험을 공유합니다 2024.04.01**)[https://oliveyoung.tech/blog/2024-04-01/testcode-use-fixture-monkey]
+ - [**Fixture Monkey 도입기에 대한 경험을 공유합니다 2024.04.01**](https://oliveyoung.tech/blog/2024-04-01/testcode-use-fixture-monkey)
  
- - **올리브영 파트너 백오피스 시스템에 대한 개선에 대해 공유합니다 2023.12.28** https://oliveyoung.tech/blog/2023-11-29/why-the-retail-platform-team-refactored/
+ - [**올리브영 파트너 백오피스 시스템에 대한 개선에 대해 공유합니다 2023.12.28**](https://oliveyoung.tech/blog/2023-11-29/why-the-retail-platform-team-refactored/)
 
 
 <div align=center>
