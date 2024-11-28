@@ -27,6 +27,10 @@
  - [**올리브영 파트너 백오피스 시스템에 대한 개선에 대해 공유합니다 2023.12.28**](https://oliveyoung.tech/blog/2023-11-29/why-the-retail-platform-team-refactored/)
 
 
+### 💫 사이드 프로젝트
+ - [**여행조각**](https://apps.apple.com/us/app/%EC%97%AC%ED%96%89%EC%A1%B0%EA%B0%81/id6648793454)
+    - 여행을 다녀온 후 기록을 하여 내 조각들을 친구들과 공유하는 앱
+
 <div align=center>
   
 <a href="https://velog.io/@yundleyundle" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
